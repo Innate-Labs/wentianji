@@ -43,7 +43,7 @@
 ## 🎬 产品截图
 
 <div align="center">
-  <img src="./screenshots/home.png" alt="问天机 首页" width="100%" />
+  <img src="./screenshots/home.jpg" alt="问天机 首页" width="100%" />
   <br/>
   <sub><b>AI 智能东方占卜 · 八字 / 塔罗 / 占星交叉印证</b></sub>
 </div>
